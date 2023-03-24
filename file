@@ -1,0 +1,4 @@
+
+ n=hello 
+
+ echo"$n"
